@@ -1,0 +1,433 @@
+{
+  "用户请求": "二次设备监控信息完整规范",
+  "评价项目结果": [
+    {
+      "编号": "6.4.3.5",
+      "评价项目": "二次设备监控信息完整规范",
+      "标准分": 4,
+      "累计最大扣分": 4,
+      "要求详情": [
+        {
+          "要求内容": {
+            "评分逻辑": "语义判断",
+            "条件": "",
+            "应满足": "装置告警信息按对设备影响严重程度至少分为设备故障、设备异常两类，分别上送；保护装置应提供动作出口总信号，对于需区分主保护和后备保护的，应提供主保护出口总信号；纵联保护通道告警信息应上送，具有双通道的各通道告警信息应分别上送；故障录波信息应传至相应的调度，调控大厅可远方调阅故障录波信息。",
+            "扣分项": "动作、告警信息上送不规范的每发现一处扣0.5分；故障录波信息无法在调度端调阅的，每站扣0.5分",
+            "扣分值": "每处扣0.5分；每站扣0.5分",
+            "logic_params": {},
+            "评价对象": ""
+          },
+          "检索到的数据条数": 30,
+          "扣分详情": [
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "device_name": "雪松变RCS-931保护",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "collect_time": "2026-04-13 10:00:00",
+                "model_spec": "RCS-931",
+                "substation": "雪松220kV变电站",
+                "type": "device_asset"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "model_spec": "RCS-915",
+                "type": "device_asset",
+                "substation": "红星500kV变电站",
+                "collect_time": "2026-04-13 10:00:00",
+                "device_name": "红星变RCS-915保护",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "device_name": "曙光变RCS-931保护",
+                "substation": "曙光220kV变电站",
+                "type": "device_asset",
+                "model_spec": "RCS-931",
+                "collect_time": "2026-04-13 10:00:00"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "device_name": "碧水变PSL-603保护",
+                "collect_time": "2026-04-13 10:00:00",
+                "model_spec": "PSL-603",
+                "type": "device_asset",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "substation": "碧水110kV变电站"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "device_name": "菱湖变RCS-931保护",
+                "model_spec": "RCS-931",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "substation": "菱湖220kV变电站",
+                "type": "device_asset",
+                "collect_time": "2026-04-13 10:00:00"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "device_asset",
+                "device_name": "雪松变PCS-915保护",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "model_spec": "PCS-915",
+                "substation": "雪松220kV变电站"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "device_name": "碧水变CSC-103保护",
+                "substation": "碧水110kV变电站",
+                "model_spec": "CSC-103",
+                "type": "device_asset"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "model_spec": "CSC-211",
+                "type": "device_asset",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "device_name": "东风变CSC-211保护",
+                "substation": "东风110kV变电站"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "type": "device_asset",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "substation": "曙光220kV变电站",
+                "device_name": "曙光变CSC-103保护",
+                "model_spec": "CSC-103"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "device_name": "紫云变CSC-211保护",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "type": "device_asset",
+                "model_spec": "CSC-211",
+                "substation": "紫云220kV变电站"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "substation": "枫桥330kV变电站",
+                "type": "device_asset",
+                "model_spec": "CSC-211",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "device_name": "枫桥变CSC-211保护"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "device_asset",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "substation": "紫云220kV变电站",
+                "collect_time": "2026-04-13 10:00:00",
+                "model_spec": "PSL-603",
+                "device_name": "紫云变PSL-603保护"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "substation": "枫桥330kV变电站",
+                "collect_time": "2026-04-13 10:00:00",
+                "model_spec": "RCS-931",
+                "device_name": "枫桥变RCS-931保护",
+                "type": "device_asset",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "device_asset",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "collect_time": "2026-04-13 10:00:00",
+                "model_spec": "PSL-603",
+                "device_name": "东风变PSL-603保护",
+                "substation": "东风110kV变电站"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "substation": "梅溪500kV变电站",
+                "model_spec": "CSC-103",
+                "device_name": "梅溪变CSC-103保护",
+                "type": "device_asset",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "substation": "菱湖220kV变电站",
+                "type": "device_asset",
+                "model_spec": "RCS-931",
+                "collect_time": "2026-04-13 10:00:00",
+                "device_name": "菱湖变RCS-930保护"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "substation": "红星500kV变电站",
+                "collect_time": "2026-04-13 10:00:00",
+                "device_name": "红星变PCS-931保护",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "model_spec": "PCS-931",
+                "type": "device_asset"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "device_name": "金岭变PCS-931保护",
+                "collect_time": "2026-04-13 10:00:00",
+                "type": "device_asset",
+                "model_spec": "PCS-931",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "substation": "金岭500kV变电站"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "device_name": "银湖变CSC-211保护",
+                "original_file": "6.4.3.5设备台账（4分）.xlsx",
+                "type": "device_asset",
+                "model_spec": "CSC-211",
+                "substation": "银湖110kV变电站"
+              },
+              "original_file": "6.4.3.5设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "运行记录未提供装置告警信息分类、保护出口信号、通道告警上送、故障录波调阅等关键信息，无法判断是否满足要求，但记录本身未直接显示违规。",
+              "metadata": {
+                "所属厂站": "±500kV 江城换流站",
+                "原始文件": "REC019-6.2.3.8.docx",
+                "测点标识": "",
+                "关联设备": "500kV 江天线线路快速保护（WXH-803A）",
+                "记录时间": "2026-04-14",
+                "type": "operation_record",
+                "来源系统": ""
+              },
+              "original_file": "REC019-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "运行记录未提供评价条件所需的具体信息，无法判断动作、告警信息上送及故障录波调阅情况",
+              "metadata": {
+                "type": "operation_record",
+                "关联设备": "500kV 江天线线路快速保护（WXH-803）",
+                "测点标识": "",
+                "所属厂站": "±500kV 江城换流站",
+                "来源系统": "",
+                "记录时间": "2026-04-14",
+                "原始文件": "REC007-6.2.3.8.docx"
+              },
+              "original_file": "REC007-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "运行记录内容与评价要求无关，无法判断是否满足要求",
+              "metadata": {
+                "type": "operation_record",
+                "测点标识": "",
+                "关联设备": "通信监控系统",
+                "原始文件": "REC017-7.1.2.18.docx",
+                "来源系统": "",
+                "记录时间": "2026-04-14",
+                "所属厂站": "110kV 城南变电站"
+              },
+              "original_file": "REC017-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "运行记录未提供评价条件所需的具体信息，无法判断动作、告警信息上送及故障录波调阅是否规范。",
+              "metadata": {
+                "测点标识": "",
+                "记录时间": "2026-04-14",
+                "所属厂站": "220kV 红旗变电站",
+                "原始文件": "REC005-6.2.3.8.docx",
+                "来源系统": "",
+                "type": "operation_record",
+                "关联设备": "220kV 旗滨线线路快速保护（CSC-103）"
+              },
+              "original_file": "REC005-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "运行记录未提供评价条件所需的具体信息，无法判断动作、告警信息上送及故障录波调阅是否规范。",
+              "metadata": {
+                "来源系统": "",
+                "type": "operation_record",
+                "原始文件": "REC007-7.1.2.18 .docx",
+                "记录时间": "2026-04-14",
+                "所属厂站": "750kV 昆仑变电站",
+                "测点标识": "",
+                "关联设备": "保护通道接口装置"
+              },
+              "original_file": "REC007-7.1.2.18 .docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "运行记录内容与评价要求无关，无法判断信息上送及故障录波调阅情况",
+              "metadata": {
+                "记录时间": "2026-04-14",
+                "关联设备": "电力线载波机",
+                "测点标识": "",
+                "所属厂站": "±800kV 天山换流站",
+                "type": "operation_record",
+                "来源系统": "",
+                "原始文件": "REC004-7.1.2.18.docx"
+              },
+              "original_file": "REC004-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "运行记录未提供评价所需的具体信息，无法判断告警分类、保护信号、通道告警及故障录波调阅情况。",
+              "metadata": {
+                "type": "operation_record",
+                "测点标识": "",
+                "来源系统": "",
+                "记录时间": "2024-11-05 14:50:22",
+                "所属厂站": "静安220kV变电站",
+                "原始文件": "REC011-5.1.3.2.4-运行记录.docx",
+                "关联设备": "上海静安站 10kV 备自投装置"
+              },
+              "original_file": "REC011-5.1.3.2.4-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "所属厂站": "750kV 昆仑变电站",
+                "关联设备": "行政程控交换机",
+                "原始文件": "REC008-7.1.2.18 .docx",
+                "记录时间": "2026-04-14",
+                "测点标识": "",
+                "type": "operation_record",
+                "来源系统": ""
+              },
+              "original_file": "REC008-7.1.2.18 .docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "运行记录内容与评价要求无关，无法判断是否满足要求",
+              "metadata": {
+                "所属厂站": "省信通公司集控站",
+                "记录时间": "2026-04-14",
+                "关联设备": "通信综合网管系统",
+                "type": "operation_record",
+                "测点标识": "",
+                "原始文件": "REC020-7.1.2.18.docx",
+                "来源系统": ""
+              },
+              "original_file": "REC020-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "运行记录内容与评价要求无关，无法判断信息上送及故障录波调阅情况",
+              "metadata": {
+                "所属厂站": "330kV 渭河变电站",
+                "原始文件": "REC012-7.1.2.18.docx",
+                "来源系统": "",
+                "关联设备": "通信配线架（DDF）",
+                "记录时间": "2026-04-14",
+                "type": "operation_record",
+                "测点标识": ""
+              },
+              "original_file": "REC012-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "operation_record",
+                "所属厂站": "220kV 红旗变电站",
+                "来源系统": "",
+                "关联设备": "通信电源（-48V）",
+                "原始文件": "REC006-7.1.2.18 .docx",
+                "记录时间": "2026-04-14",
+                "测点标识": ""
+              },
+              "original_file": "REC006-7.1.2.18 .docx"
+            }
+          ],
+          "小计扣分": 0
+        }
+      ],
+      "总扣分": 0,
+      "得分": 4
+    }
+  ],
+  "总得分": 4,
+  "总标准分": 4
+}

@@ -1,0 +1,717 @@
+{
+  "用户请求": "输电线路容量",
+  "评价项目结果": [
+    {
+      "评价项目": "专业管理",
+      "子评价项目": "输电线路容量",
+      "标准分": 20,
+      "累计最大扣分": 20,
+      "要求详情": [
+        {
+          "要求内容": {
+            "评分逻辑": "语义判断",
+            "条件": "",
+            "应满足": "电网输电通道输送能力满足电网潮流输送要求",
+            "扣分项": "不满足要求",
+            "扣分值": "扣5分",
+            "评价对象": "电网输电通道及辅助设备"
+          },
+          "检索到的数据条数": 25,
+          "扣分详情": [
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "compile_time": "",
+                "report_title": "REP002-5.1.2.7-分析报告..txt",
+                "original_file": "REP002-5.1.2.7-分析报告..txt",
+                "chunk_index": 0,
+                "type": "analysis_report",
+                "report_no": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "chunk_index": 0,
+                "type": "analysis_report",
+                "original_file": "REP007-5.1.2.7-分析报告..txt",
+                "report_title": "REP007-5.1.2.7-分析报告..txt",
+                "compile_time": "",
+                "report_no": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "chunk_index": 0,
+                "original_file": "REP001-5.1.2.7-分析报告..txt",
+                "report_no": "",
+                "compile_time": "",
+                "report_title": "REP001-5.1.2.7-分析报告..txt",
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "analysis_report",
+                "report_no": "",
+                "original_file": "REP004-5.1.2.7-分析报告..txt",
+                "chunk_index": 0,
+                "report_title": "REP004-5.1.2.7-分析报告..txt",
+                "compile_time": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "original_file": "REP015-5.1.2.7-分析报告..txt",
+                "type": "analysis_report",
+                "report_title": "REP015-5.1.2.7-分析报告..txt",
+                "chunk_index": 0,
+                "compile_time": "",
+                "report_no": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 5,
+              "reason": "输电通道输送能力及辅助设备通流能力不满足电网潮流输送要求",
+              "metadata": {
+                "report_title": "REP020-5.1.2.7-分析报告..txt",
+                "type": "analysis_report",
+                "original_file": "REP020-5.1.2.7-分析报告..txt",
+                "chunk_index": 0,
+                "report_no": "",
+                "compile_time": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "report_no": "",
+                "chunk_index": 0,
+                "type": "analysis_report",
+                "compile_time": "",
+                "report_title": "REP006-5.1.2.7-分析报告..txt",
+                "original_file": "REP006-5.1.2.7-分析报告..txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "chunk_index": 0,
+                "compile_time": "",
+                "report_no": "",
+                "report_title": "REP003-5.1.2.7-分析报告..txt",
+                "original_file": "REP003-5.1.2.7-分析报告..txt",
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "report_title": "REP008-5.1.2.7-分析报告..txt",
+                "chunk_index": 0,
+                "type": "analysis_report",
+                "compile_time": "",
+                "report_no": "",
+                "original_file": "REP008-5.1.2.7-分析报告..txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "report_no": "",
+                "compile_time": "",
+                "original_file": "REP005-5.1.2.7-分析报告..txt",
+                "chunk_index": 0,
+                "type": "analysis_report",
+                "report_title": "REP005-5.1.2.7-分析报告..txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "chunk_index": 0,
+                "report_title": "REP018-5.1.2.7-分析报告..txt",
+                "compile_time": "",
+                "original_file": "REP018-5.1.2.7-分析报告..txt",
+                "report_no": "",
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "analysis_report",
+                "original_file": "REP011-5.1.2.7-分析报告..txt",
+                "report_title": "REP011-5.1.2.7-分析报告..txt",
+                "chunk_index": 0,
+                "report_no": "",
+                "compile_time": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "analysis_report",
+                "compile_time": "",
+                "original_file": "REP012-5.1.2.7-分析报告..txt",
+                "report_title": "REP012-5.1.2.7-分析报告..txt",
+                "chunk_index": 0,
+                "report_no": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "chunk_index": 0,
+                "compile_time": "",
+                "report_no": "",
+                "report_title": "REP010-5.1.2.7-分析报告..txt",
+                "type": "analysis_report",
+                "original_file": "REP010-5.1.2.7-分析报告..txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "记录时间": "2024-10-25 16:15:28",
+                "关联设备": "浙江绍兴站 500kV 3/2接线中断路器母线",
+                "所属厂站": "绍兴500kV变电站",
+                "测点标识": "",
+                "原始文件": "REC014-5.1.3.2.3-运行记录.docx",
+                "来源系统": "",
+                "type": "operation_record"
+              },
+              "original_file": "REC014-5.1.3.2.3-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "记录时间": "2024-06-10 13:15:00",
+                "原始文件": "REC020-5.1.3.3.1-运行记录.docx",
+                "所属厂站": "晋江供电公司",
+                "关联设备": "泉州晋江110kV民营经济区",
+                "type": "operation_record",
+                "测点标识": "",
+                "来源系统": ""
+              },
+              "original_file": "REC020-5.1.3.3.1-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "所属厂站": "浦东220kV变电站",
+                "记录时间": "2024-09-10 09:30:15",
+                "type": "operation_record",
+                "来源系统": "",
+                "测点标识": "",
+                "关联设备": "上海浦东220kV中心环网 浦陆线",
+                "原始文件": "REC006-5.1.3.2.2-运行记录.docx"
+              },
+              "original_file": "REC006-5.1.3.2.2-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "母线故障导致新能源电站大面积脱网，送端系统频率飙升，稳定运行被严重破坏，输电通道输送能力不满足潮流输送要求。",
+              "metadata": {
+                "记录时间": "2024-10-25 17:25:14",
+                "关联设备": "哈密南800kV换流站 750kV交流场母线",
+                "所属厂站": "哈密南换流站",
+                "测点标识": "",
+                "原始文件": "REC010-5.1.3.2.3-运行记录（扣分）.docx",
+                "type": "operation_record",
+                "来源系统": ""
+              },
+              "original_file": "REC010-5.1.3.2.3-运行记录（扣分）.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "关联设备": "汕头潮南110kV农网",
+                "所属厂站": "潮南供电局",
+                "测点标识": "",
+                "原始文件": "REC016-5.1.3.3.1-运行记录.docx",
+                "来源系统": "",
+                "type": "operation_record",
+                "记录时间": "2024-06-10 15:05:00"
+              },
+              "original_file": "REC016-5.1.3.3.1-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "关联设备": "厦门电力进岛第一通道 220kV母线",
+                "来源系统": "",
+                "记录时间": "2024-10-25 07:55:19",
+                "测点标识": "",
+                "type": "operation_record",
+                "所属厂站": "厦门220kV总站",
+                "原始文件": "REC017-5.1.3.2.3-运行记录.docx"
+              },
+              "original_file": "REC017-5.1.3.2.3-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "同塔双回线路因沙尘暴同时故障，输电通道输送能力不满足潮流输送要求",
+              "metadata": {
+                "关联设备": "西北 同塔双回750kV线路",
+                "type": "operation_record",
+                "原始文件": "REC017-5.1.4.2-运行记录.docx",
+                "测点标识": "",
+                "来源系统": "",
+                "记录时间": "2024-11-10 17:30:08",
+                "所属厂站": "兰州东750kV变电站"
+              },
+              "original_file": "REC017-5.1.4.2-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "失去关键STATCOM导致系统电压显著下降，表明输电通道动态支撑能力不足，不满足潮流输送要求。",
+              "metadata": {
+                "来源系统": "",
+                "记录时间": "2024-08-20 16:20:14",
+                "所属厂站": "河西风电场升压站",
+                "type": "operation_record",
+                "测点标识": "",
+                "关联设备": "西北某风电场 汇集站",
+                "原始文件": "REC014-5.1.3.3.7-运行记录.docx"
+              },
+              "original_file": "REC014-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "失去大容量发电机后，主干及末端电压下降超限，表明输电通道在N-1故障下输送能力不足，无法满足潮流稳定要求。",
+              "metadata": {
+                "记录时间": "2024-08-20 12:45:19",
+                "关联设备": "武汉光谷 220kV电缆环网",
+                "type": "operation_record",
+                "测点标识": "",
+                "来源系统": "",
+                "原始文件": "REC018-5.1.3.3.7-运行记录.docx",
+                "所属厂站": "光谷220kV变电站"
+              },
+              "original_file": "REC018-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "无功电源容量与最大自然无功负荷比值117.6%大于115%，不满足电网输电通道输送能力要求",
+              "metadata": {
+                "原始文件": "REC008-5.1.3.3.1-运行记录.docx",
+                "关联设备": "广州番禺区110kV电网",
+                "type": "operation_record",
+                "测点标识": "",
+                "来源系统": "",
+                "所属厂站": "番禺供电局",
+                "记录时间": "2024-06-10 17:30:00"
+              },
+              "original_file": "REC008-5.1.3.3.1-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "220kV末端电网失去一台100MW发电机后，地区末端电压下降9.8%，表明输电通道电压支撑能力不足，可能影响潮流稳定输送。",
+              "metadata": {
+                "关联设备": "南京都市圈 500kV/220kV电磁环网",
+                "记录时间": "2024-08-20 17:05:37",
+                "type": "operation_record",
+                "所属厂站": "东善桥500kV变电站",
+                "原始文件": "REC020-5.1.3.3.7-运行记录.docx",
+                "来源系统": "",
+                "测点标识": ""
+              },
+              "original_file": "REC020-5.1.3.3.7-运行记录.docx"
+            }
+          ],
+          "小计扣分": 35
+        },
+        {
+          "要求内容": {
+            "评分逻辑": "语义判断",
+            "条件": "",
+            "应满足": "一次辅助设备通流能力满足电网潮流输送要求",
+            "扣分项": "不满足要求",
+            "扣分值": "扣5分",
+            "评价对象": "电网输电通道及辅助设备"
+          },
+          "检索到的数据条数": 25,
+          "扣分详情": [
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "report_no": "",
+                "type": "analysis_report",
+                "chunk_index": 0,
+                "report_title": "REP002-5.1.2.7-分析报告..txt",
+                "compile_time": "",
+                "original_file": "REP002-5.1.2.7-分析报告..txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "chunk_index": 0,
+                "original_file": "REP001-5.1.2.7-分析报告..txt",
+                "type": "analysis_report",
+                "report_title": "REP001-5.1.2.7-分析报告..txt",
+                "compile_time": "",
+                "report_no": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "analysis_report",
+                "report_no": "",
+                "chunk_index": 0,
+                "compile_time": "",
+                "report_title": "REP007-5.1.2.7-分析报告..txt",
+                "original_file": "REP007-5.1.2.7-分析报告..txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "analysis_report",
+                "report_no": "",
+                "compile_time": "",
+                "chunk_index": 0,
+                "original_file": "REP015-5.1.2.7-分析报告..txt",
+                "report_title": "REP015-5.1.2.7-分析报告..txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "report_no": "",
+                "chunk_index": 0,
+                "report_title": "REP008-5.1.2.7-分析报告..txt",
+                "compile_time": "",
+                "type": "analysis_report",
+                "original_file": "REP008-5.1.2.7-分析报告..txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 5,
+              "reason": "电流互感器测量误差导致通流能力评估不准确，阻波器温度超标，一次辅助设备通流能力不满足电网潮流输送要求",
+              "metadata": {
+                "report_no": "",
+                "report_title": "REP020-5.1.2.7-分析报告..txt",
+                "compile_time": "",
+                "chunk_index": 0,
+                "original_file": "REP020-5.1.2.7-分析报告..txt",
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "report_no": "",
+                "type": "analysis_report",
+                "compile_time": "",
+                "chunk_index": 0,
+                "original_file": "REP004-5.1.2.7-分析报告..txt",
+                "report_title": "REP004-5.1.2.7-分析报告..txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "compile_time": "",
+                "original_file": "REP005-5.1.2.7-分析报告..txt",
+                "report_title": "REP005-5.1.2.7-分析报告..txt",
+                "report_no": "",
+                "type": "analysis_report",
+                "chunk_index": 0
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "chunk_index": 0,
+                "report_title": "REP003-5.1.2.7-分析报告..txt",
+                "report_no": "",
+                "original_file": "REP003-5.1.2.7-分析报告..txt",
+                "compile_time": "",
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "compile_time": "",
+                "report_title": "REP018-5.1.2.7-分析报告..txt",
+                "original_file": "REP018-5.1.2.7-分析报告..txt",
+                "report_no": "",
+                "chunk_index": 0,
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "chunk_index": 0,
+                "compile_time": "",
+                "type": "analysis_report",
+                "original_file": "REP006-5.1.2.7-分析报告..txt",
+                "report_no": "",
+                "report_title": "REP006-5.1.2.7-分析报告..txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "compile_time": "",
+                "report_title": "REP010-5.1.2.7-分析报告..txt",
+                "original_file": "REP010-5.1.2.7-分析报告..txt",
+                "type": "analysis_report",
+                "report_no": "",
+                "chunk_index": 0
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "analysis_report",
+                "report_title": "REP011-5.1.2.7-分析报告..txt",
+                "report_no": "",
+                "chunk_index": 0,
+                "compile_time": "",
+                "original_file": "REP011-5.1.2.7-分析报告..txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "analysis_report",
+                "chunk_index": 0,
+                "original_file": "REP012-5.1.2.7-分析报告..txt",
+                "compile_time": "",
+                "report_title": "REP012-5.1.2.7-分析报告..txt",
+                "report_no": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "记录时间": "2024-10-25 16:15:28",
+                "来源系统": "",
+                "测点标识": "",
+                "关联设备": "浙江绍兴站 500kV 3/2接线中断路器母线",
+                "type": "operation_record",
+                "所属厂站": "绍兴500kV变电站",
+                "原始文件": "REC014-5.1.3.2.3-运行记录.docx"
+              },
+              "original_file": "REC014-5.1.3.2.3-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "记录时间": "2024-10-25 07:55:19",
+                "所属厂站": "厦门220kV总站",
+                "原始文件": "REC017-5.1.3.2.3-运行记录.docx",
+                "测点标识": "",
+                "type": "operation_record",
+                "来源系统": "",
+                "关联设备": "厦门电力进岛第一通道 220kV母线"
+              },
+              "original_file": "REC017-5.1.3.2.3-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "operation_record",
+                "关联设备": "上海浦东220kV中心环网 浦陆线",
+                "记录时间": "2024-09-10 09:30:15",
+                "测点标识": "",
+                "原始文件": "REC006-5.1.3.2.2-运行记录.docx",
+                "所属厂站": "浦东220kV变电站",
+                "来源系统": ""
+              },
+              "original_file": "REC006-5.1.3.2.2-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "记录时间": "2024-06-10 15:05:00",
+                "来源系统": "",
+                "所属厂站": "潮南供电局",
+                "关联设备": "汕头潮南110kV农网",
+                "type": "operation_record",
+                "原始文件": "REC016-5.1.3.3.1-运行记录.docx",
+                "测点标识": ""
+              },
+              "original_file": "REC016-5.1.3.3.1-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "所属厂站": "晋江供电公司",
+                "原始文件": "REC020-5.1.3.3.1-运行记录.docx",
+                "关联设备": "泉州晋江110kV民营经济区",
+                "来源系统": "",
+                "type": "operation_record",
+                "记录时间": "2024-06-10 13:15:00",
+                "测点标识": ""
+              },
+              "original_file": "REC020-5.1.3.3.1-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "失去最大容量STATCOM后电压下降显著，表明辅助设备通流能力不足，无法满足电网潮流输送要求",
+              "metadata": {
+                "测点标识": "",
+                "记录时间": "2024-08-20 16:20:14",
+                "type": "operation_record",
+                "原始文件": "REC014-5.1.3.3.7-运行记录.docx",
+                "所属厂站": "河西风电场升压站",
+                "来源系统": "",
+                "关联设备": "西北某风电场 汇集站"
+              },
+              "original_file": "REC014-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "原始文件": "REC014-5.1.3.3.1-运行记录.docx",
+                "关联设备": "珠海横琴110kV自贸区电网",
+                "来源系统": "",
+                "type": "operation_record",
+                "测点标识": "",
+                "所属厂站": "横琴供电所",
+                "记录时间": "2024-06-10 14:15:00"
+              },
+              "original_file": "REC014-5.1.3.3.1-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "一次辅助设备通流能力不足，导致N-1故障下地区末端电压严重下降9.8%",
+              "metadata": {
+                "所属厂站": "东善桥500kV变电站",
+                "记录时间": "2024-08-20 17:05:37",
+                "测点标识": "",
+                "关联设备": "南京都市圈 500kV/220kV电磁环网",
+                "原始文件": "REC020-5.1.3.3.7-运行记录.docx",
+                "type": "operation_record",
+                "来源系统": ""
+              },
+              "original_file": "REC020-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "测点标识": "",
+                "关联设备": "南京东善桥站 220kV #5母线",
+                "所属厂站": "东善桥220kV变电站",
+                "原始文件": "REC011-5.1.3.2.3-运行记录.docx",
+                "记录时间": "2024-10-25 09:50:22",
+                "来源系统": "",
+                "type": "operation_record"
+              },
+              "original_file": "REC011-5.1.3.2.3-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "运行记录显示无功电源容量与最大自然无功负荷比值（117.6%）大于115%，表明一次辅助设备（无功补偿装置）通流能力可能不足，不满足电网潮流输送要求。",
+              "metadata": {
+                "原始文件": "REC008-5.1.3.3.1-运行记录.docx",
+                "来源系统": "",
+                "所属厂站": "番禺供电局",
+                "关联设备": "广州番禺区110kV电网",
+                "type": "operation_record",
+                "测点标识": "",
+                "记录时间": "2024-06-10 17:30:00"
+              },
+              "original_file": "REC008-5.1.3.3.1-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "所属厂站": "银川东换流站",
+                "原始文件": "REC019-5.1.3.3.7-运行记录.docx",
+                "记录时间": "2024-08-20 14:50:05",
+                "测点标识": "",
+                "关联设备": "宁夏银川东 换流站交流滤波器",
+                "来源系统": "",
+                "type": "operation_record"
+              },
+              "original_file": "REC019-5.1.3.3.7-运行记录.docx"
+            }
+          ],
+          "小计扣分": 20
+        }
+      ],
+      "总扣分": 20,
+      "得分": 0
+    }
+  ],
+  "总得分": 0,
+  "总标准分": 20
+}

@@ -1,0 +1,424 @@
+{
+  "用户请求": "二次设备远方操作功能",
+  "评价项目结果": [
+    {
+      "编号": "6.4.3.6",
+      "评价项目": "二次设备远方操作功能",
+      "标准分": 4,
+      "累计最大扣分": 4,
+      "要求详情": [
+        {
+          "要求内容": {
+            "评分逻辑": "语义判断",
+            "条件": "",
+            "应满足": "35kV及以下重合闸及备自投装置应以软连接片方式实现远方投退功能，重合闸及备自投装置软连接片投退状态、充电完成状态指示应传至调度。",
+            "扣分项": "35kV及以下重合闸及备自投不能远方投退的，每站扣0.5分；具备远方投退功能但未将软连接片投退状态、充电完成状态指示应传至调度，每站扣0.5分",
+            "扣分值": "每站扣0.5分",
+            "logic_params": {},
+            "评价对象": "35kV及以下重合闸及备自投装置"
+          },
+          "检索到的数据条数": 30,
+          "扣分详情": [
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "model_spec": "UAPC-311",
+                "type": "device_asset",
+                "device_name": "荷塘变重合闸1",
+                "substation": "荷塘110kV变电站",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "type": "device_asset",
+                "substation": "荷塘110kV变电站",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "device_name": "荷塘变重合闸2",
+                "model_spec": "UAPC-311"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "type": "device_asset",
+                "model_spec": "CSC-246",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "device_name": "荷塘变备自投1",
+                "substation": "荷塘110kV变电站"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "collect_time": "2026-04-13 10:00:00",
+                "device_name": "曙光变备自投1",
+                "substation": "曙光220kV变电站",
+                "type": "device_asset",
+                "model_spec": "NS3000-B"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "substation": "曙光220kV变电站",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "type": "device_asset",
+                "collect_time": "2026-04-13 10:00:00",
+                "device_name": "曙光变重合闸1",
+                "model_spec": "NS3000-R"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "device_name": "荷塘变备自投2",
+                "substation": "荷塘110kV变电站",
+                "type": "device_asset",
+                "model_spec": "CSC-246",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "collect_time": "2026-04-13 10:00:00"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "type": "device_asset",
+                "device_name": "枫桥变备自投1",
+                "substation": "枫桥330kV变电站",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "model_spec": "SICAM B"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "substation": "碧水110kV变电站",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "type": "device_asset",
+                "model_spec": "iPACS-572",
+                "device_name": "碧水变备自投1"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "substation": "菱湖220kV变电站",
+                "type": "device_asset",
+                "model_spec": "NS3000-B",
+                "device_name": "菱湖变备自投1",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "device_asset",
+                "substation": "枫桥330kV变电站",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "collect_time": "2026-04-13 10:00:00",
+                "model_spec": "SICAM R",
+                "device_name": "枫桥变重合闸1"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "substation": "银湖110kV变电站",
+                "type": "device_asset",
+                "model_spec": "NS2000-R",
+                "device_name": "银湖变重合闸1"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "substation": "雪松220kV变电站",
+                "type": "device_asset",
+                "device_name": "雪松变备自投1",
+                "collect_time": "2026-04-13 10:00:00",
+                "model_spec": "RCS-9651"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "substation": "菱湖220kV变电站",
+                "type": "device_asset",
+                "device_name": "菱湖变重合闸1",
+                "model_spec": "NS3000-R"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "device_name": "竹园变重合闸1",
+                "collect_time": "2026-04-13 10:00:00",
+                "model_spec": "PCS-923A",
+                "type": "device_asset",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "substation": "竹园110kV变电站"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "model_spec": "NSB-310",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "type": "device_asset",
+                "device_name": "银湖变备自投1",
+                "collect_time": "2026-04-13 10:00:00",
+                "substation": "银湖110kV变电站"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "device_name": "雪松变重合闸1",
+                "type": "device_asset",
+                "substation": "雪松220kV变电站",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "model_spec": "RCS-923A"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "substation": "柳园110kV变电站",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "type": "device_asset",
+                "device_name": "柳园变备自投1",
+                "model_spec": "NSB-310"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "device_name": "碧水变重合闸1",
+                "substation": "碧水110kV变电站",
+                "type": "device_asset",
+                "model_spec": "iPACS-571",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "model_spec": "PCS-9651",
+                "substation": "红星500kV变电站",
+                "collect_time": "2026-04-13 10:00:00",
+                "type": "device_asset",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "device_name": "红星变备自投1"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "type": "device_asset",
+                "device_name": "紫云变重合闸1",
+                "substation": "紫云220kV变电站",
+                "model_spec": "UAPC-311"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "device_asset",
+                "device_name": "竹园变备自投1",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "model_spec": "PCS-9651",
+                "collect_time": "2026-04-13 10:00:00",
+                "substation": "竹园110kV变电站"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "device_asset",
+                "model_spec": "RCS-923A",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "device_name": "东风变重合闸1",
+                "substation": "东风110kV变电站"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "device_asset",
+                "device_name": "紫云变备自投1",
+                "model_spec": "UAPC-312",
+                "substation": "紫云220kV变电站",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "substation": "东风110kV变电站",
+                "type": "device_asset",
+                "device_name": "东风变备自投1",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "model_spec": "PCS-9651"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "substation": "银湖110kV变电站",
+                "model_spec": "NS2000-R",
+                "type": "device_asset",
+                "device_name": "银湖变重合闸2",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "type": "device_asset",
+                "device_name": "青山变重合闸1",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "model_spec": "CSC-123",
+                "substation": "青山330kV变电站"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "substation": "东风110kV变电站",
+                "device_name": "东风变重合闸2",
+                "model_spec": "RCS-923A",
+                "collect_time": "2026-04-13 10:00:00",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "type": "device_asset"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "运行记录未提及35kV及以下重合闸的远方投退功能及状态上送情况，无法判断是否满足要求，但评价对象为35kV及以下，记录中为220kV装置，不适用。",
+              "metadata": {
+                "原始文件": "REC012-5.1.3.2.4-运行记录.docx",
+                "type": "operation_record",
+                "测点标识": "",
+                "关联设备": "哈尔滨站 220kV 重合闸装置",
+                "所属厂站": "哈尔滨220kV变电站",
+                "记录时间": "2024-11-05 10:05:58",
+                "来源系统": ""
+              },
+              "original_file": "REC012-5.1.3.2.4-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "model_spec": "PCS-923A",
+                "original_file": "6.4.3.6设备台账（4分）.xlsx",
+                "type": "device_asset",
+                "collect_time": "2026-04-13 10:00:00",
+                "substation": "红星500kV变电站",
+                "device_name": "红星变重合闸1"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "运行记录内容与评价要求无关，无法判断是否满足要求",
+              "metadata": {
+                "关联设备": "泉州晋江110kV民营经济区",
+                "type": "operation_record",
+                "所属厂站": "晋江供电公司",
+                "来源系统": "",
+                "测点标识": "",
+                "记录时间": "2024-06-10 13:15:00",
+                "原始文件": "REC020-5.1.3.3.1-运行记录.docx"
+              },
+              "original_file": "REC020-5.1.3.3.1-运行记录.docx"
+            }
+          ],
+          "小计扣分": 0
+        }
+      ],
+      "总扣分": 0,
+      "得分": 4
+    }
+  ],
+  "总得分": 4,
+  "总标准分": 4
+}

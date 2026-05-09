@@ -1,0 +1,444 @@
+{
+  "用户请求": "一次设备监控信息完整规范",
+  "评价项目结果": [
+    {
+      "编号": "6.4.3.3",
+      "评价项目": "一次设备监控信息完整规范",
+      "标准分": 5,
+      "累计最大扣分": 5,
+      "要求详情": [
+        {
+          "要求内容": {
+            "评分逻辑": "语义判断",
+            "条件": "",
+            "应满足": "断路器位置信息应采用双位置信号上送，分相操动机构断路器除采集总位置信号外，还应采集断路器的分相位置信号，其中总位置信号应采用分相位置信号串联，由断路器辅助触点直接提供；一次设备告警信息按对设备影响的严重程度至少分为设备故障、设备异常两类，并分别上送。",
+            "扣分项": "断路器位置信息采集不规范，每发现一处扣0.5分；一次设备告警信息上送不规范，每发现一处扣0.5分",
+            "扣分值": "每处扣0.5分",
+            "logic_params": {},
+            "评价对象": ""
+          },
+          "检索到的数据条数": 30,
+          "扣分详情": [
+            {
+              "deduction": 1,
+              "reason": "运行记录未提供断路器位置信息采集方式及一次设备告警信息分类上送的具体内容，无法确认是否满足规范要求，视为两处不规范。",
+              "metadata": {
+                "来源系统": "",
+                "type": "operation_record",
+                "原始文件": "REC012-5.1.3.2.4-运行记录.docx",
+                "记录时间": "2024-11-05 10:05:58",
+                "测点标识": "",
+                "关联设备": "哈尔滨站 220kV 重合闸装置",
+                "所属厂站": "哈尔滨220kV变电站"
+              },
+              "original_file": "REC012-5.1.3.2.4-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "记录时间": "2026-04-14",
+                "type": "operation_record",
+                "来源系统": "",
+                "测点标识": "",
+                "所属厂站": "330kV 渭河变电站",
+                "关联设备": "通信配线架（DDF）",
+                "原始文件": "REC012-7.1.2.18.docx"
+              },
+              "original_file": "REC012-7.1.2.18.docx"
+            },
+            {
+              "deduction": 1,
+              "reason": "运行记录未提供断路器位置信息采集方式及一次设备告警信息分类上送的验证信息，无法确认满足规范要求，视为两处不规范。",
+              "metadata": {
+                "来源系统": "",
+                "关联设备": "上海静安站 10kV 备自投装置",
+                "所属厂站": "静安220kV变电站",
+                "记录时间": "2024-11-05 14:50:22",
+                "type": "operation_record",
+                "测点标识": "",
+                "原始文件": "REC011-5.1.3.2.4-运行记录.docx"
+              },
+              "original_file": "REC011-5.1.3.2.4-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "来源系统": "",
+                "type": "operation_record",
+                "关联设备": "通信电源（-48V）",
+                "测点标识": "",
+                "所属厂站": "220kV 红旗变电站",
+                "原始文件": "REC006-7.1.2.18 .docx",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC006-7.1.2.18 .docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "关联设备": "行政程控交换机",
+                "type": "operation_record",
+                "来源系统": "",
+                "记录时间": "2026-04-14",
+                "原始文件": "REC008-7.1.2.18 .docx",
+                "所属厂站": "750kV 昆仑变电站",
+                "测点标识": ""
+              },
+              "original_file": "REC008-7.1.2.18 .docx"
+            },
+            {
+              "deduction": 1,
+              "reason": "运行记录未提供断路器位置信号采集方式及一次设备告警信息分类上送的具体信息，无法确认其规范性，视为不满足要求，按每项一处扣0.5分，共扣1分。",
+              "metadata": {
+                "所属厂站": "武汉500kV变电站",
+                "来源系统": "",
+                "原始文件": "REC018-5.1.3.2.4-运行记录.docx",
+                "测点标识": "",
+                "type": "operation_record",
+                "关联设备": "武汉站 220kV 距离保护",
+                "记录时间": "2024-11-05 12:00:25"
+              },
+              "original_file": "REC018-5.1.3.2.4-运行记录.docx"
+            },
+            {
+              "deduction": 1,
+              "reason": "运行记录未提供断路器位置信息采集及一次设备告警信息上送的具体情况，无法判断是否满足规范要求，视为不规范",
+              "metadata": {
+                "原始文件": "REC006-5.1.3.2.2-运行记录.docx",
+                "来源系统": "",
+                "记录时间": "2024-09-10 09:30:15",
+                "所属厂站": "浦东220kV变电站",
+                "type": "operation_record",
+                "关联设备": "上海浦东220kV中心环网 浦陆线",
+                "测点标识": ""
+              },
+              "original_file": "REC006-5.1.3.2.2-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "关联设备": "淮沪直流 枫泾换流站",
+                "type": "operation_record",
+                "测点标识": "",
+                "来源系统": "",
+                "所属厂站": "枫泾换流站",
+                "记录时间": "2024-05-21 15:55:38",
+                "原始文件": "REC013-5.1.2.8-运行记录.docx"
+              },
+              "original_file": "REC013-5.1.2.8-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "device_name": "曙光变101断路器",
+                "type": "device_asset",
+                "model_spec": "LW30-126",
+                "original_file": "6.4.3.3设备台账（4分）.xlsx",
+                "substation": "曙光220kV变电站"
+              },
+              "original_file": "6.4.3.3设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "测点标识": "",
+                "记录时间": "2026-04-14",
+                "原始文件": "REC011-7.1.2.18.docx",
+                "所属厂站": "330kV 渭河变电站",
+                "关联设备": "光缆终端盒（ODF）",
+                "来源系统": "",
+                "type": "operation_record"
+              },
+              "original_file": "REC011-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "来源系统": "",
+                "type": "operation_record",
+                "所属厂站": "10kV 石桥铺配电变压器台区",
+                "记录时间": "2026-04-14",
+                "关联设备": "杆架式变压器 #15",
+                "测点标识": "",
+                "原始文件": "REC015-9.2.2.3.2 .docx"
+              },
+              "original_file": "REC015-9.2.2.3.2 .docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "model_spec": "LW34-40.5",
+                "collect_time": "2026-04-13 10:00:00",
+                "device_name": "东风变302断路器",
+                "original_file": "6.4.3.3设备台账（4分）.xlsx",
+                "substation": "东风110kV变电站",
+                "type": "device_asset"
+              },
+              "original_file": "6.4.3.3设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "记录时间": "2026-04-14",
+                "关联设备": "OTN 设备",
+                "原始文件": "REC010-7.1.2.18.docx",
+                "来源系统": "",
+                "所属厂站": "500kV 东江换流站",
+                "测点标识": "",
+                "type": "operation_record"
+              },
+              "original_file": "REC010-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "测点标识": "",
+                "type": "operation_record",
+                "来源系统": "",
+                "原始文件": "REC018-9.2.2.3.2.docx",
+                "关联设备": "杆架式变压器 #18",
+                "记录时间": "2026-04-14",
+                "所属厂站": "10kV 含谷镇配电变压器台区"
+              },
+              "original_file": "REC018-9.2.2.3.2.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "device_asset",
+                "model_spec": "LW34-40.5",
+                "substation": "东风110kV变电站",
+                "original_file": "6.4.3.3设备台账（4分）.xlsx",
+                "collect_time": "2026-04-13 10:00:00",
+                "device_name": "东风变303断路器"
+              },
+              "original_file": "6.4.3.3设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "collect_time": "2026-04-13 10:00:00",
+                "type": "device_asset",
+                "device_name": "红星变502断路器",
+                "original_file": "6.4.3.3设备台账（4分）.xlsx",
+                "substation": "红星500kV变电站",
+                "model_spec": "LW10B-550"
+              },
+              "original_file": "6.4.3.3设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 1,
+              "reason": "运行记录未提供断路器位置信息采集及一次设备告警信息上送的具体情况，无法确认是否满足规范要求，视为不规范。",
+              "metadata": {
+                "测点标识": "",
+                "原始文件": "REC003-5.1.3.2.4-运行记录.docx",
+                "所属厂站": "龙泉换流站",
+                "来源系统": "",
+                "记录时间": "2024-11-05 16:05:33",
+                "关联设备": "龙泉换流站 极I 阀组保护",
+                "type": "operation_record"
+              },
+              "original_file": "REC003-5.1.3.2.4-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "original_file": "6.4.3.3设备台账（4分）.xlsx",
+                "substation": "枫桥330kV变电站",
+                "device_name": "枫桥变801断路器",
+                "model_spec": "SICAM",
+                "type": "device_asset",
+                "collect_time": "2026-04-13 10:00:00"
+              },
+              "original_file": "6.4.3.3设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0.5,
+              "reason": "断路器双位置信号未上送",
+              "metadata": {
+                "type": "device_asset",
+                "original_file": "6.4.3.3设备台账（4分）.xlsx",
+                "device_name": "红星变503断路器",
+                "model_spec": "LW10B-550",
+                "substation": "红星500kV变电站",
+                "collect_time": "2026-04-13 10:00:00"
+              },
+              "original_file": "6.4.3.3设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "测点标识": "",
+                "记录时间": "2026-04-14",
+                "来源系统": "",
+                "原始文件": "REC014-7.1.2.18.docx",
+                "所属厂站": "500kV 紫云变电站",
+                "关联设备": "通信时钟同步设备（BITS）",
+                "type": "operation_record"
+              },
+              "original_file": "REC014-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "原始文件": "REC020-6.2.3.8.docx",
+                "来源系统": "",
+                "测点标识": "",
+                "关联设备": "330kV 母线差动保护（BP-2C）",
+                "所属厂站": "330kV 渭河变电站",
+                "type": "operation_record",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC020-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "model_spec": "LW34-40.5",
+                "original_file": "6.4.3.3设备台账（4分）.xlsx",
+                "substation": "东风110kV变电站",
+                "type": "device_asset",
+                "collect_time": "2026-04-13 10:00:00",
+                "device_name": "东风变301断路器"
+              },
+              "original_file": "6.4.3.3设备台账（4分）.xlsx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "原始文件": "REC004-7.1.2.18.docx",
+                "来源系统": "",
+                "type": "operation_record",
+                "测点标识": "",
+                "所属厂站": "±800kV 天山换流站",
+                "关联设备": "电力线载波机",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC004-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "测点标识": "",
+                "type": "operation_record",
+                "记录时间": "2026-04-14",
+                "来源系统": "",
+                "原始文件": "REC007-7.1.2.18 .docx",
+                "关联设备": "保护通道接口装置",
+                "所属厂站": "750kV 昆仑变电站"
+              },
+              "original_file": "REC007-7.1.2.18 .docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "所属厂站": "500kV 东江换流站",
+                "测点标识": "",
+                "type": "operation_record",
+                "记录时间": "2026-04-14",
+                "原始文件": "REC009-7.1.2.18.docx",
+                "来源系统": "",
+                "关联设备": "数据通信网交换机"
+              },
+              "original_file": "REC009-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "原始文件": "REC020-7.1.2.18.docx",
+                "关联设备": "通信综合网管系统",
+                "来源系统": "",
+                "记录时间": "2026-04-14",
+                "测点标识": "",
+                "所属厂站": "省信通公司集控站",
+                "type": "operation_record"
+              },
+              "original_file": "REC020-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "compile_time": "",
+                "report_title": "83513试验报告004.txt",
+                "type": "experiment_report",
+                "chunk_index": 1,
+                "original_file": "83513试验报告004.txt",
+                "report_no": ""
+              },
+              "original_file": "83513试验报告004.txt"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "来源系统": "",
+                "所属厂站": "±500kV 江城换流站",
+                "关联设备": "通信蓄电池组",
+                "测点标识": "",
+                "type": "operation_record",
+                "记录时间": "2026-04-14",
+                "原始文件": "REC016-7.1.2.18.docx"
+              },
+              "original_file": "REC016-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "operation_record",
+                "原始文件": "REC005-9.2.2.3.2 .docx",
+                "记录时间": "2026-04-14",
+                "来源系统": "",
+                "关联设备": "杆架式变压器 #05",
+                "所属厂站": "10kV 赵家湾配电变压器台区",
+                "测点标识": ""
+              },
+              "original_file": "REC005-9.2.2.3.2 .docx"
+            },
+            {
+              "deduction": 1,
+              "reason": "运行记录未提及断路器位置信息采集及一次设备告警信息上送情况，无法判断是否满足规范要求，按每类一处扣0.5分计算。",
+              "metadata": {
+                "记录时间": "2026-04-14",
+                "原始文件": "REC011-6.2.3.8.docx",
+                "来源系统": "",
+                "type": "operation_record",
+                "测点标识": "",
+                "关联设备": "110kV 旗黄线线路快速保护（PCS-931）",
+                "所属厂站": "110kV 红旗变电站"
+              },
+              "original_file": "REC011-6.2.3.8.docx"
+            }
+          ],
+          "小计扣分": 6.5
+        }
+      ],
+      "总扣分": 5,
+      "得分": 0
+    }
+  ],
+  "总得分": 0,
+  "总标准分": 5
+}

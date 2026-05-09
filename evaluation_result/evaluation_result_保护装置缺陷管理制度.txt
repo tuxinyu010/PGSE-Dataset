@@ -1,0 +1,763 @@
+{
+  "用户请求": "保护装置缺陷管理制度",
+  "评价项目结果": [
+    {
+      "编号": "6.2.3.8",
+      "评价项目": "保护装置缺陷管理制度",
+      "标准分": 10,
+      "累计最大扣分": 10,
+      "要求详情": [
+        {
+          "要求内容": {
+            "评分逻辑": "语义判断",
+            "条件": "",
+            "应满足": "执行缺陷管理制度，继电保护装置发生缺陷后应及时协调处理，不得长期退出运行。建立缺陷及消缺台账。",
+            "扣分项": "因保护缺陷造成一次设备陪停的，未进行年度缺陷统计分析的扣10分；保护长期退出运行（主保护超过48h或后备保护超过168h）的，每次扣1分",
+            "扣分值": "扣10分；每次扣1分",
+            "logic_params": {},
+            "评价对象": "继电保护装置"
+          },
+          "检索到的数据条数": 30,
+          "扣分详情": [
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "原始文件": "REC006-6.2.3.8.docx",
+                "来源系统": "",
+                "type": "operation_record",
+                "关联设备": "110kV 母线差动保护（BP-2B）",
+                "所属厂站": "110kV 城南变电站",
+                "测点标识": "",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC006-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "原始文件": "REC006-7.1.2.18 .docx",
+                "所属厂站": "220kV 红旗变电站",
+                "来源系统": "",
+                "type": "operation_record",
+                "关联设备": "通信电源（-48V）",
+                "记录时间": "2026-04-14",
+                "测点标识": ""
+              },
+              "original_file": "REC006-7.1.2.18 .docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "operation_record",
+                "测点标识": "",
+                "记录时间": "2026-04-14",
+                "关联设备": "通信蓄电池组",
+                "所属厂站": "±500kV 江城换流站",
+                "来源系统": "",
+                "原始文件": "REC016-7.1.2.18.docx"
+              },
+              "original_file": "REC016-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "原始文件": "REC011-6.2.3.8.docx",
+                "来源系统": "",
+                "记录时间": "2026-04-14",
+                "所属厂站": "110kV 红旗变电站",
+                "关联设备": "110kV 旗黄线线路快速保护（PCS-931）",
+                "测点标识": "",
+                "type": "operation_record"
+              },
+              "original_file": "REC011-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "测点标识": "",
+                "原始文件": "REC020-6.2.3.8.docx",
+                "关联设备": "330kV 母线差动保护（BP-2C）",
+                "type": "operation_record",
+                "所属厂站": "330kV 渭河变电站",
+                "来源系统": "",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC020-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "来源系统": "",
+                "记录时间": "2026-04-14",
+                "测点标识": "",
+                "原始文件": "REC005-6.2.3.8.docx",
+                "所属厂站": "220kV 红旗变电站",
+                "type": "operation_record",
+                "关联设备": "220kV 旗滨线线路快速保护（CSC-103）"
+              },
+              "original_file": "REC005-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "所属厂站": "110kV 柳青变电站",
+                "type": "operation_record",
+                "来源系统": "",
+                "原始文件": "REC014-6.2.3.8.docx",
+                "关联设备": "110kV 母线差动保护（RCS-915）",
+                "记录时间": "2026-04-14",
+                "测点标识": ""
+              },
+              "original_file": "REC014-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "原始文件": "REC012-6.2.3.8.docx",
+                "记录时间": "2026-04-14",
+                "关联设备": "220kV 母线差动保护（BP-2C）",
+                "所属厂站": "220kV 滨海变电站",
+                "测点标识": "",
+                "type": "operation_record",
+                "来源系统": ""
+              },
+              "original_file": "REC012-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "关联设备": "500kV 塘龙线线路快速保护（PSL-603）",
+                "测点标识": "",
+                "所属厂站": "±800kV 天山换流站",
+                "记录时间": "2026-04-14",
+                "type": "operation_record",
+                "来源系统": "",
+                "原始文件": "REC003-6.2.3.8.docx"
+              },
+              "original_file": "REC003-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "测点标识": "",
+                "记录时间": "2026-04-14",
+                "type": "operation_record",
+                "原始文件": "REC008-6.2.3.8.docx",
+                "关联设备": "330kV 母线差动保护（SGB-750）",
+                "所属厂站": "330kV 渭河变电站",
+                "来源系统": ""
+              },
+              "original_file": "REC008-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "所属厂站": "750kV 昆仑变电站",
+                "来源系统": "",
+                "关联设备": "750kV 母线差动保护（RCS-915）",
+                "记录时间": "2026-04-14",
+                "type": "operation_record",
+                "测点标识": "",
+                "原始文件": "REC004-6.2.3.8.docx"
+              },
+              "original_file": "REC004-6.2.3.8.docx"
+            },
+            {
+              "deduction": 10,
+              "reason": "运行记录未提及缺陷管理制度执行情况，且未进行年度缺陷统计分析，导致一次设备陪停风险未评估。",
+              "metadata": {
+                "type": "experiment_report",
+                "chunk_index": 1,
+                "compile_time": "",
+                "original_file": "83513试验报告003.txt",
+                "report_title": "83513试验报告003.txt",
+                "report_no": ""
+              },
+              "original_file": "83513试验报告003.txt"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "测点标识": "",
+                "记录时间": "2026-04-14",
+                "来源系统": "",
+                "所属厂站": "220kV 城南变电站",
+                "原始文件": "REC018-6.2.3.8.docx",
+                "关联设备": "220kV 母线差动保护（SGB-750）",
+                "type": "operation_record"
+              },
+              "original_file": "REC018-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "来源系统": "",
+                "原始文件": "REC008-7.1.2.18 .docx",
+                "所属厂站": "750kV 昆仑变电站",
+                "记录时间": "2026-04-14",
+                "关联设备": "行政程控交换机",
+                "type": "operation_record",
+                "测点标识": ""
+              },
+              "original_file": "REC008-7.1.2.18 .docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "operation_record",
+                "测点标识": "",
+                "所属厂站": "500kV 紫云变电站",
+                "关联设备": "220kV 紫天线线路快速保护（RCS-931）",
+                "原始文件": "REC009-6.2.3.8.docx",
+                "来源系统": "",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC009-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "关联设备": "220kV 母线差动保护（BP-2C）",
+                "type": "operation_record",
+                "记录时间": "2026-04-14",
+                "所属厂站": "500kV 清江变电站",
+                "测点标识": "",
+                "来源系统": "",
+                "原始文件": "REC002-6.2.3.8.docx"
+              },
+              "original_file": "REC002-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "来源系统": "",
+                "测点标识": "",
+                "type": "operation_record",
+                "关联设备": "500kV 江天线线路快速保护（WXH-803A）",
+                "原始文件": "REC019-6.2.3.8.docx",
+                "所属厂站": "±500kV 江城换流站",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC019-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "analysis_report",
+                "original_file": "REP005-7.2.2.2.2-分析报告.txt",
+                "report_no": "",
+                "compile_time": "",
+                "chunk_index": 1,
+                "report_title": "REP005-7.2.2.2.2-分析报告.txt"
+              },
+              "original_file": "REP005-7.2.2.2.2-分析报告.txt"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "original_file": "REP001-7.2.2.2.2-分析报告.txt",
+                "chunk_index": 1,
+                "report_no": "",
+                "compile_time": "",
+                "report_title": "REP001-7.2.2.2.2-分析报告.txt",
+                "type": "analysis_report"
+              },
+              "original_file": "REP001-7.2.2.2.2-分析报告.txt"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "来源系统": "",
+                "原始文件": "REC012-7.1.2.18.docx",
+                "type": "operation_record",
+                "测点标识": "",
+                "关联设备": "通信配线架（DDF）",
+                "所属厂站": "330kV 渭河变电站",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC012-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "来源系统": "",
+                "测点标识": "",
+                "原始文件": "REC017-6.2.3.8.docx",
+                "记录时间": "2026-04-14",
+                "关联设备": "220kV 紫清线线路快速保护（RCS-931）",
+                "type": "operation_record",
+                "所属厂站": "500kV 紫云变电站"
+              },
+              "original_file": "REC017-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "原始文件": "REC015-6.2.3.8.docx",
+                "来源系统": "",
+                "测点标识": "",
+                "type": "operation_record",
+                "所属厂站": "±800kV 天山换流站",
+                "关联设备": "220kV 塘天线线路快速保护（CSC-103B）",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC015-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "记录时间": "2026-04-14",
+                "原始文件": "REC013-6.2.3.8.docx",
+                "type": "operation_record",
+                "所属厂站": "750kV 昆仑变电站",
+                "关联设备": "500kV 昆天线线路快速保护（PSL-603）",
+                "测点标识": "",
+                "来源系统": ""
+              },
+              "original_file": "REC013-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "report_no": "",
+                "report_title": "83513试验报告004.txt",
+                "original_file": "83513试验报告004.txt",
+                "chunk_index": 1,
+                "type": "experiment_report",
+                "compile_time": ""
+              },
+              "original_file": "83513试验报告004.txt"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "original_file": "REP002-7.2.2.2.2-分析报告.txt",
+                "chunk_index": 1,
+                "report_no": "",
+                "type": "analysis_report",
+                "report_title": "REP002-7.2.2.2.2-分析报告.txt",
+                "compile_time": ""
+              },
+              "original_file": "REP002-7.2.2.2.2-分析报告.txt"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "记录时间": "2026-04-14",
+                "来源系统": "",
+                "测点标识": "",
+                "type": "operation_record",
+                "关联设备": "电力线载波机",
+                "所属厂站": "±800kV 天山换流站",
+                "原始文件": "REC004-7.1.2.18.docx"
+              },
+              "original_file": "REC004-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "测点标识": "",
+                "原始文件": "REC007-6.2.3.8.docx",
+                "所属厂站": "±500kV 江城换流站",
+                "记录时间": "2026-04-14",
+                "来源系统": "",
+                "type": "operation_record",
+                "关联设备": "500kV 江天线线路快速保护（WXH-803）"
+              },
+              "original_file": "REC007-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "所属厂站": "500kV 东江换流站",
+                "来源系统": "",
+                "原始文件": "REC010-6.2.3.8.docx",
+                "关联设备": "500kV 母线差动保护（CSC-150）",
+                "type": "operation_record",
+                "测点标识": "",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC010-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "operation_record",
+                "关联设备": "光缆终端盒（ODF）",
+                "记录时间": "2026-04-14",
+                "原始文件": "REC011-7.1.2.18.docx",
+                "测点标识": "",
+                "来源系统": "",
+                "所属厂站": "330kV 渭河变电站"
+              },
+              "original_file": "REC011-7.1.2.18.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "所属厂站": "哈尔滨220kV变电站",
+                "关联设备": "哈尔滨站 220kV 重合闸装置",
+                "原始文件": "REC012-5.1.3.2.4-运行记录.docx",
+                "来源系统": "",
+                "记录时间": "2024-11-05 10:05:58",
+                "type": "operation_record",
+                "测点标识": ""
+              },
+              "original_file": "REC012-5.1.3.2.4-运行记录.docx"
+            }
+          ],
+          "小计扣分": 10
+        },
+        {
+          "要求内容": {
+            "评分逻辑": "数值比对",
+            "条件": "",
+            "应满足": "线路快速保护运行率达到97%",
+            "扣分项": "线路快速保护运行率每降低1%扣3分",
+            "扣分值": "每降低1%扣3分",
+            "logic_params": {
+              "直接参数": "线路快速保护运行率",
+              "数值区间": "≥97%"
+            },
+            "评价对象": "继电保护装置"
+          },
+          "检索到的数据条数": 10,
+          "扣分详情": [
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "来源系统": "",
+                "所属厂站": "500kV 清江变电站",
+                "type": "operation_record",
+                "测点标识": "",
+                "记录时间": "2026-04-14",
+                "关联设备": "220kV 清枫线线路快速保护（RCS-931）",
+                "原始文件": "REC001-6.2.3.8.docx"
+              },
+              "original_file": "REC001-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "测点标识": "",
+                "所属厂站": "±800kV 天山换流站",
+                "原始文件": "REC003-6.2.3.8.docx",
+                "记录时间": "2026-04-14",
+                "type": "operation_record",
+                "关联设备": "500kV 塘龙线线路快速保护（PSL-603）",
+                "来源系统": ""
+              },
+              "original_file": "REC003-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "关联设备": "220kV 旗滨线线路快速保护（CSC-103）",
+                "type": "operation_record",
+                "测点标识": "",
+                "记录时间": "2026-04-14",
+                "所属厂站": "220kV 红旗变电站",
+                "来源系统": "",
+                "原始文件": "REC005-6.2.3.8.docx"
+              },
+              "original_file": "REC005-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "记录时间": "2026-04-14",
+                "关联设备": "500kV 江天线线路快速保护（WXH-803）",
+                "来源系统": "",
+                "测点标识": "",
+                "type": "operation_record",
+                "所属厂站": "±500kV 江城换流站",
+                "原始文件": "REC007-6.2.3.8.docx"
+              },
+              "original_file": "REC007-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "所属厂站": "500kV 紫云变电站",
+                "来源系统": "",
+                "记录时间": "2026-04-14",
+                "type": "operation_record",
+                "关联设备": "220kV 紫天线线路快速保护（RCS-931）",
+                "测点标识": "",
+                "原始文件": "REC009-6.2.3.8.docx"
+              },
+              "original_file": "REC009-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "测点标识": "",
+                "所属厂站": "110kV 红旗变电站",
+                "关联设备": "110kV 旗黄线线路快速保护（PCS-931）",
+                "原始文件": "REC011-6.2.3.8.docx",
+                "来源系统": "",
+                "type": "operation_record",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC011-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "测点标识": "",
+                "原始文件": "REC013-6.2.3.8.docx",
+                "所属厂站": "750kV 昆仑变电站",
+                "记录时间": "2026-04-14",
+                "来源系统": "",
+                "type": "operation_record",
+                "关联设备": "500kV 昆天线线路快速保护（PSL-603）"
+              },
+              "original_file": "REC013-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "所属厂站": "±800kV 天山换流站",
+                "来源系统": "",
+                "type": "operation_record",
+                "原始文件": "REC015-6.2.3.8.docx",
+                "关联设备": "220kV 塘天线线路快速保护（CSC-103B）",
+                "测点标识": "",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC015-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "原始文件": "REC017-6.2.3.8.docx",
+                "type": "operation_record",
+                "所属厂站": "500kV 紫云变电站",
+                "来源系统": "",
+                "关联设备": "220kV 紫清线线路快速保护（RCS-931）",
+                "测点标识": "",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC017-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "测点标识": "",
+                "type": "operation_record",
+                "来源系统": "",
+                "原始文件": "REC019-6.2.3.8.docx",
+                "记录时间": "2026-04-14",
+                "关联设备": "500kV 江天线线路快速保护（WXH-803A）",
+                "所属厂站": "±500kV 江城换流站"
+              },
+              "original_file": "REC019-6.2.3.8.docx"
+            }
+          ],
+          "小计扣分": 0
+        },
+        {
+          "要求内容": {
+            "评分逻辑": "数值比对",
+            "条件": "",
+            "应满足": "母线保护运行率达到99%",
+            "扣分项": "母差保护运行率每降低1%扣3分",
+            "扣分值": "每降低1%扣3分",
+            "logic_params": {
+              "直接参数": "母线保护运行率",
+              "数值区间": "≥99%"
+            },
+            "评价对象": "继电保护装置"
+          },
+          "检索到的数据条数": 10,
+          "扣分详情": [
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "原始文件": "REC002-6.2.3.8.docx",
+                "记录时间": "2026-04-14",
+                "测点标识": "",
+                "type": "operation_record",
+                "来源系统": "",
+                "所属厂站": "500kV 清江变电站",
+                "关联设备": "220kV 母线差动保护（BP-2C）"
+              },
+              "original_file": "REC002-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "所属厂站": "750kV 昆仑变电站",
+                "原始文件": "REC004-6.2.3.8.docx",
+                "测点标识": "",
+                "来源系统": "",
+                "关联设备": "750kV 母线差动保护（RCS-915）",
+                "type": "operation_record",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC004-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "所属厂站": "110kV 城南变电站",
+                "关联设备": "110kV 母线差动保护（BP-2B）",
+                "原始文件": "REC006-6.2.3.8.docx",
+                "来源系统": "",
+                "type": "operation_record",
+                "测点标识": "",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC006-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "记录时间": "2026-04-14",
+                "来源系统": "",
+                "关联设备": "330kV 母线差动保护（SGB-750）",
+                "原始文件": "REC008-6.2.3.8.docx",
+                "type": "operation_record",
+                "测点标识": "",
+                "所属厂站": "330kV 渭河变电站"
+              },
+              "original_file": "REC008-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "来源系统": "",
+                "所属厂站": "500kV 东江换流站",
+                "测点标识": "",
+                "type": "operation_record",
+                "原始文件": "REC010-6.2.3.8.docx",
+                "关联设备": "500kV 母线差动保护（CSC-150）",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC010-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "operation_record",
+                "测点标识": "",
+                "记录时间": "2026-04-14",
+                "所属厂站": "220kV 滨海变电站",
+                "关联设备": "220kV 母线差动保护（BP-2C）",
+                "来源系统": "",
+                "原始文件": "REC012-6.2.3.8.docx"
+              },
+              "original_file": "REC012-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "来源系统": "",
+                "所属厂站": "110kV 柳青变电站",
+                "原始文件": "REC014-6.2.3.8.docx",
+                "测点标识": "",
+                "关联设备": "110kV 母线差动保护（RCS-915）",
+                "type": "operation_record",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC014-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "来源系统": "",
+                "所属厂站": "500kV 清江变电站",
+                "记录时间": "2026-04-14",
+                "原始文件": "REC016-6.2.3.8.docx",
+                "type": "operation_record",
+                "测点标识": "",
+                "关联设备": "500kV 母线差动保护（BP-2C）"
+              },
+              "original_file": "REC016-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "operation_record",
+                "原始文件": "REC018-6.2.3.8.docx",
+                "所属厂站": "220kV 城南变电站",
+                "关联设备": "220kV 母线差动保护（SGB-750）",
+                "来源系统": "",
+                "测点标识": "",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC018-6.2.3.8.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "来源系统": "",
+                "原始文件": "REC020-6.2.3.8.docx",
+                "所属厂站": "330kV 渭河变电站",
+                "关联设备": "330kV 母线差动保护（BP-2C）",
+                "测点标识": "",
+                "type": "operation_record",
+                "记录时间": "2026-04-14"
+              },
+              "original_file": "REC020-6.2.3.8.docx"
+            }
+          ],
+          "小计扣分": 0
+        }
+      ],
+      "总扣分": 10,
+      "得分": 0
+    }
+  ],
+  "总得分": 0,
+  "总标准分": 10
+}

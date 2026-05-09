@@ -1,0 +1,719 @@
+{
+  "用户请求": "电磁环网",
+  "评价项目结果": [
+    {
+      "评价项目": "反事故措施（反措）落实",
+      "子评价项目": "电磁环网",
+      "标准分": 20,
+      "累计最大扣分": 20,
+      "要求详情": [
+        {
+          "要求内容": {
+            "评分逻辑": "语义判断",
+            "条件": "",
+            "应满足": "城市主供网与上级电网高低压电磁环网逐步解环运行",
+            "扣分项": "存在电磁环网且影响安全性、可靠性",
+            "扣分值": "扣5分",
+            "评价对象": "城市电网电磁环网"
+          },
+          "检索到的数据条数": 25,
+          "扣分详情": [
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "compile_time": "",
+                "original_file": "REP015-5.1.4.7-分析报告.txt",
+                "chunk_index": 0,
+                "report_no": "",
+                "report_title": "REP015-5.1.4.7-分析报告.txt",
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "chunk_index": 0,
+                "original_file": "REP006-5.1.4.7-分析报告.txt",
+                "report_title": "REP006-5.1.4.7-分析报告.txt",
+                "compile_time": "",
+                "type": "analysis_report",
+                "report_no": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "report_title": "REP003-5.1.4.7-分析报告.txt",
+                "report_no": "",
+                "type": "analysis_report",
+                "chunk_index": 0,
+                "original_file": "REP003-5.1.4.7-分析报告.txt",
+                "compile_time": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "compile_time": "",
+                "report_no": "",
+                "chunk_index": 0,
+                "report_title": "REP008-5.1.4.7-分析报告.txt",
+                "original_file": "REP008-5.1.4.7-分析报告.txt",
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "report_title": "REP009-5.1.4.7-分析报告.txt",
+                "chunk_index": 0,
+                "compile_time": "",
+                "type": "analysis_report",
+                "original_file": "REP009-5.1.4.7-分析报告.txt",
+                "report_no": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "chunk_index": 0,
+                "compile_time": "",
+                "report_title": "REP005-5.1.4.7-分析报告.txt",
+                "report_no": "",
+                "original_file": "REP005-5.1.4.7-分析报告.txt",
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "compile_time": "",
+                "report_no": "",
+                "type": "analysis_report",
+                "report_title": "REP010-5.1.4.7-分析报告.txt",
+                "original_file": "REP010-5.1.4.7-分析报告.txt",
+                "chunk_index": 0
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "compile_time": "",
+                "report_title": "REP018-5.1.4.7-分析报告.txt",
+                "original_file": "REP018-5.1.4.7-分析报告.txt",
+                "chunk_index": 0,
+                "report_no": "",
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "report_title": "REP014-5.1.4.7-分析报告.txt",
+                "report_no": "",
+                "original_file": "REP014-5.1.4.7-分析报告.txt",
+                "type": "analysis_report",
+                "chunk_index": 0,
+                "compile_time": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "original_file": "REP001-5.1.4.7-分析报告.txt",
+                "report_no": "",
+                "type": "analysis_report",
+                "chunk_index": 0,
+                "compile_time": "",
+                "report_title": "REP001-5.1.4.7-分析报告.txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在电磁环网且影响安全性、可靠性，解环工作未启动",
+              "metadata": {
+                "original_file": "REP020-5.1.4.7-分析报告.txt",
+                "compile_time": "",
+                "report_no": "",
+                "report_title": "REP020-5.1.4.7-分析报告.txt",
+                "chunk_index": 0,
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "report_title": "REP004-5.1.4.7-分析报告.txt",
+                "type": "analysis_report",
+                "report_no": "",
+                "compile_time": "",
+                "original_file": "REP004-5.1.4.7-分析报告.txt",
+                "chunk_index": 0
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "chunk_index": 0,
+                "compile_time": "",
+                "type": "analysis_report",
+                "original_file": "REP007-5.1.2.7-分析报告..txt",
+                "report_title": "REP007-5.1.2.7-分析报告..txt",
+                "report_no": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在500kV/220kV电磁环网，且故障时电压下降显著（末端电压下降9.8%），影响电网安全性与可靠性",
+              "metadata": {
+                "关联设备": "南京都市圈 500kV/220kV电磁环网",
+                "原始文件": "REC020-5.1.3.3.7-运行记录.docx",
+                "来源系统": "",
+                "测点标识": "",
+                "记录时间": "2024-08-20 17:05:37",
+                "所属厂站": "东善桥500kV变电站",
+                "type": "operation_record"
+              },
+              "original_file": "REC020-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在220kV电磁环网，且故障时电压下降显著（末端达7.8%），影响系统安全性与可靠性。",
+              "metadata": {
+                "记录时间": "2024-08-20 12:45:19",
+                "测点标识": "",
+                "所属厂站": "光谷220kV变电站",
+                "来源系统": "",
+                "关联设备": "武汉光谷 220kV电缆环网",
+                "type": "operation_record",
+                "原始文件": "REC018-5.1.3.3.7-运行记录.docx"
+              },
+              "original_file": "REC018-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在110kV环网供电，且失去关键无功设备时电压下降明显，影响系统安全性与可靠性",
+              "metadata": {
+                "记录时间": "2024-08-20 15:00:00",
+                "来源系统": "",
+                "type": "operation_record",
+                "关联设备": "沈阳站 100Mvar电抗器",
+                "测点标识": "",
+                "原始文件": "REC016-5.1.3.3.7-运行记录.docx",
+                "所属厂站": "沈阳500kV变电站"
+              },
+              "original_file": "REC016-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "运行记录显示郑州220kV核心区环网仍存在电磁环网结构，且发生故障时依赖配网自愈系统维持供电，表明环网对安全性和可靠性存在潜在影响。",
+              "metadata": {
+                "原始文件": "REC018-5.1.3.2.2-运行记录.docx",
+                "记录时间": "2024-09-10 09:55:47",
+                "关联设备": "郑州220kV核心区环网 郑汴线",
+                "来源系统": "",
+                "所属厂站": "郑州中心220kV站",
+                "测点标识": "",
+                "type": "operation_record"
+              },
+              "original_file": "REC018-5.1.3.2.2-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在330kV/500kV电磁环网，检修方式下电压下降显著（末端电压下降7.5%），影响供电可靠性",
+              "metadata": {
+                "type": "operation_record",
+                "原始文件": "REC011-5.1.3.3.7-运行记录.docx",
+                "所属厂站": "盘龙500kV变电站",
+                "测点标识": "",
+                "记录时间": "2024-08-20 10:35:49",
+                "关联设备": "重庆盘龙站 330kV双回线路",
+                "来源系统": ""
+              },
+              "original_file": "REC011-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "关联设备": "中山市110kV及以下电网",
+                "记录时间": "2024-06-10 13:50:00",
+                "原始文件": "REC010-5.1.3.3.1-运行记录.docx",
+                "type": "operation_record",
+                "测点标识": "",
+                "所属厂站": "中山供电局",
+                "来源系统": ""
+              },
+              "original_file": "REC010-5.1.3.3.1-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "运行记录显示苏州南部220kV环网（苏胥线）与苏州南500kV变电站存在高低压电磁环网，且在N-1情况下电压下降明显，影响系统安全性与可靠性。",
+              "metadata": {
+                "来源系统": "",
+                "原始文件": "REC005-5.1.3.3.7-运行记录.docx",
+                "type": "operation_record",
+                "关联设备": "苏州南部220kV环网（苏胥线）",
+                "记录时间": "2024-08-20 09:40:55",
+                "所属厂站": "苏州南500kV变电站",
+                "测点标识": ""
+              },
+              "original_file": "REC005-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在电磁环网，且运行记录表明其N-1故障后需依赖潮流控制保持稳定，说明环网结构对安全可靠性存在潜在影响。",
+              "metadata": {
+                "所属厂站": "政务区220kV站",
+                "记录时间": "2024-09-10 11:10:24",
+                "原始文件": "REC015-5.1.3.2.2-运行记录.docx",
+                "测点标识": "",
+                "来源系统": "",
+                "type": "operation_record",
+                "关联设备": "合肥220kV政务区环网 政文线"
+              },
+              "original_file": "REC015-5.1.3.2.2-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在电磁环网，且故障引发低频振荡，需稳控装置干预才能保持稳定，影响安全性",
+              "metadata": {
+                "记录时间": "2024-09-10 17:30:08",
+                "所属厂站": "乾县750kV变电站",
+                "原始文件": "REC017-5.1.3.2.2-运行记录.docx",
+                "测点标识": "",
+                "来源系统": "",
+                "关联设备": "西北750kV环网 乾官线",
+                "type": "operation_record"
+              },
+              "original_file": "REC017-5.1.3.2.2-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在电磁环网，且故障时电压大幅下降，影响系统安全性与可靠性",
+              "metadata": {
+                "type": "operation_record",
+                "来源系统": "",
+                "测点标识": "",
+                "记录时间": "2024-08-20 14:15:51",
+                "关联设备": "河北保北站 110kV放射状线路",
+                "所属厂站": "保北500kV变电站",
+                "原始文件": "REC012-5.1.3.3.7-运行记录.docx"
+              },
+              "original_file": "REC012-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "运行记录未提供电磁环网解环情况，且存在影响安全可靠性的风险",
+              "metadata": {
+                "记录时间": "2024-06-10 08:20:00",
+                "来源系统": "",
+                "type": "operation_record",
+                "所属厂站": "钱江新城站",
+                "关联设备": "杭州钱江新城220kV电网",
+                "测点标识": "",
+                "原始文件": "REC019-5.1.3.3.1-运行记录.docx"
+              },
+              "original_file": "REC019-5.1.3.3.1-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "运行记录未提供电磁环网解环情况，且内容与评价对象无关，无法证明已解环，按存在且影响安全可靠性处理。",
+              "metadata": {
+                "关联设备": "泉州晋江110kV民营经济区",
+                "记录时间": "2024-06-10 13:15:00",
+                "所属厂站": "晋江供电公司",
+                "原始文件": "REC020-5.1.3.3.1-运行记录.docx",
+                "type": "operation_record",
+                "来源系统": "",
+                "测点标识": ""
+              },
+              "original_file": "REC020-5.1.3.3.1-运行记录.docx"
+            }
+          ],
+          "小计扣分": 60
+        },
+        {
+          "要求内容": {
+            "评分逻辑": "语义判断",
+            "条件": "",
+            "应满足": "城市主供网与低压电网电磁环网逐步解环运行",
+            "扣分项": "存在电磁环网且影响安全性、可靠性",
+            "扣分值": "扣5分",
+            "评价对象": "城市电网电磁环网"
+          },
+          "检索到的数据条数": 25,
+          "扣分详情": [
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "analysis_report",
+                "chunk_index": 0,
+                "compile_time": "",
+                "original_file": "REP015-5.1.4.7-分析报告.txt",
+                "report_no": "",
+                "report_title": "REP015-5.1.4.7-分析报告.txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "chunk_index": 0,
+                "report_no": "",
+                "original_file": "REP006-5.1.4.7-分析报告.txt",
+                "report_title": "REP006-5.1.4.7-分析报告.txt",
+                "compile_time": "",
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "original_file": "REP003-5.1.4.7-分析报告.txt",
+                "report_no": "",
+                "chunk_index": 0,
+                "report_title": "REP003-5.1.4.7-分析报告.txt",
+                "compile_time": "",
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "original_file": "REP009-5.1.4.7-分析报告.txt",
+                "compile_time": "",
+                "type": "analysis_report",
+                "chunk_index": 0,
+                "report_no": "",
+                "report_title": "REP009-5.1.4.7-分析报告.txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "compile_time": "",
+                "original_file": "REP008-5.1.4.7-分析报告.txt",
+                "report_title": "REP008-5.1.4.7-分析报告.txt",
+                "report_no": "",
+                "type": "analysis_report",
+                "chunk_index": 0
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "compile_time": "",
+                "chunk_index": 0,
+                "type": "analysis_report",
+                "report_title": "REP005-5.1.4.7-分析报告.txt",
+                "original_file": "REP005-5.1.4.7-分析报告.txt",
+                "report_no": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "original_file": "REP010-5.1.4.7-分析报告.txt",
+                "report_no": "",
+                "chunk_index": 0,
+                "report_title": "REP010-5.1.4.7-分析报告.txt",
+                "compile_time": "",
+                "type": "analysis_report"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "report_no": "",
+                "compile_time": "",
+                "original_file": "REP018-5.1.4.7-分析报告.txt",
+                "report_title": "REP018-5.1.4.7-分析报告.txt",
+                "type": "analysis_report",
+                "chunk_index": 0
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "report_title": "REP014-5.1.4.7-分析报告.txt",
+                "report_no": "",
+                "type": "analysis_report",
+                "compile_time": "",
+                "original_file": "REP014-5.1.4.7-分析报告.txt",
+                "chunk_index": 0
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "compile_time": "",
+                "chunk_index": 0,
+                "original_file": "REP001-5.1.4.7-分析报告.txt",
+                "type": "analysis_report",
+                "report_title": "REP001-5.1.4.7-分析报告.txt",
+                "report_no": ""
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在电磁环网且影响安全性、可靠性，解环工作未启动",
+              "metadata": {
+                "type": "analysis_report",
+                "report_title": "REP020-5.1.4.7-分析报告.txt",
+                "chunk_index": 0,
+                "report_no": "",
+                "compile_time": "",
+                "original_file": "REP020-5.1.4.7-分析报告.txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 0,
+              "reason": "满足要求",
+              "metadata": {
+                "type": "analysis_report",
+                "report_title": "REP004-5.1.4.7-分析报告.txt",
+                "report_no": "",
+                "compile_time": "",
+                "original_file": "REP004-5.1.4.7-分析报告.txt",
+                "chunk_index": 0
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 5,
+              "reason": "运行记录未提及电磁环网解环情况，且报告内容表明220kV环网正常运行，存在电磁环网并可能影响安全可靠性。",
+              "metadata": {
+                "type": "analysis_report",
+                "report_no": "",
+                "chunk_index": 0,
+                "compile_time": "",
+                "report_title": "REP007-5.1.2.7-分析报告..txt",
+                "original_file": "REP007-5.1.2.7-分析报告..txt"
+              },
+              "original_file": "unknown"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在500kV/220kV电磁环网，且故障时电压下降显著（末端下降9.8%），影响安全性与可靠性",
+              "metadata": {
+                "来源系统": "",
+                "记录时间": "2024-08-20 17:05:37",
+                "type": "operation_record",
+                "原始文件": "REC020-5.1.3.3.7-运行记录.docx",
+                "测点标识": "",
+                "关联设备": "南京都市圈 500kV/220kV电磁环网",
+                "所属厂站": "东善桥500kV变电站"
+              },
+              "original_file": "REC020-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在电磁环网，且故障时电压下降显著，影响安全性与可靠性",
+              "metadata": {
+                "记录时间": "2024-08-20 12:45:19",
+                "来源系统": "",
+                "测点标识": "",
+                "所属厂站": "光谷220kV变电站",
+                "原始文件": "REC018-5.1.3.3.7-运行记录.docx",
+                "type": "operation_record",
+                "关联设备": "武汉光谷 220kV电缆环网"
+              },
+              "original_file": "REC018-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在110kV环网供电，且失去关键无功补偿设备时电压下降明显，影响系统安全性与可靠性。",
+              "metadata": {
+                "关联设备": "沈阳站 100Mvar电抗器",
+                "原始文件": "REC016-5.1.3.3.7-运行记录.docx",
+                "记录时间": "2024-08-20 15:00:00",
+                "测点标识": "",
+                "所属厂站": "沈阳500kV变电站",
+                "type": "operation_record",
+                "来源系统": ""
+              },
+              "original_file": "REC016-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在电磁环网，且故障时依赖自愈系统维持供电，存在安全性与可靠性风险",
+              "metadata": {
+                "测点标识": "",
+                "所属厂站": "郑州中心220kV站",
+                "记录时间": "2024-09-10 09:55:47",
+                "来源系统": "",
+                "原始文件": "REC018-5.1.3.2.2-运行记录.docx",
+                "关联设备": "郑州220kV核心区环网 郑汴线",
+                "type": "operation_record"
+              },
+              "original_file": "REC018-5.1.3.2.2-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在电磁环网，且检修方式下失去一回线路导致末端电压大幅下降7.5%，影响供电可靠性",
+              "metadata": {
+                "记录时间": "2024-08-20 10:35:49",
+                "测点标识": "",
+                "来源系统": "",
+                "type": "operation_record",
+                "原始文件": "REC011-5.1.3.3.7-运行记录.docx",
+                "所属厂站": "盘龙500kV变电站",
+                "关联设备": "重庆盘龙站 330kV双回线路"
+              },
+              "original_file": "REC011-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在电磁环网，且故障引发低频振荡，需稳控装置干预才能保持稳定，影响系统安全性",
+              "metadata": {
+                "原始文件": "REC017-5.1.3.2.2-运行记录.docx",
+                "测点标识": "",
+                "所属厂站": "乾县750kV变电站",
+                "type": "operation_record",
+                "关联设备": "西北750kV环网 乾官线",
+                "来源系统": "",
+                "记录时间": "2024-09-10 17:30:08"
+              },
+              "original_file": "REC017-5.1.3.2.2-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在220kV/500kV电磁环网，且N-1故障下电压下降明显，影响安全性与可靠性",
+              "metadata": {
+                "来源系统": "",
+                "记录时间": "2024-08-20 09:40:55",
+                "type": "operation_record",
+                "测点标识": "",
+                "所属厂站": "苏州南500kV变电站",
+                "原始文件": "REC005-5.1.3.3.7-运行记录.docx",
+                "关联设备": "苏州南部220kV环网（苏胥线）"
+              },
+              "original_file": "REC005-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "运行记录未提供电磁环网解环情况，且记录内容与电磁环网评价要求无关，无法证明已满足逐步解环要求，默认存在影响安全性的电磁环网。",
+              "metadata": {
+                "测点标识": "",
+                "所属厂站": "中山供电局",
+                "来源系统": "",
+                "记录时间": "2024-06-10 13:50:00",
+                "关联设备": "中山市110kV及以下电网",
+                "type": "operation_record",
+                "原始文件": "REC010-5.1.3.3.1-运行记录.docx"
+              },
+              "original_file": "REC010-5.1.3.3.1-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在电磁环网，且运行记录表明环网中一回线故障，虽经N-1校验电网保持稳定，但环网结构本身可能影响安全性与可靠性",
+              "metadata": {
+                "关联设备": "合肥220kV政务区环网 政文线",
+                "记录时间": "2024-09-10 11:10:24",
+                "所属厂站": "政务区220kV站",
+                "原始文件": "REC015-5.1.3.2.2-运行记录.docx",
+                "来源系统": "",
+                "type": "operation_record",
+                "测点标识": ""
+              },
+              "original_file": "REC015-5.1.3.2.2-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "运行记录未提供电磁环网解环信息，且存在影响安全可靠性的风险",
+              "metadata": {
+                "所属厂站": "钱江新城站",
+                "测点标识": "",
+                "type": "operation_record",
+                "关联设备": "杭州钱江新城220kV电网",
+                "原始文件": "REC019-5.1.3.3.1-运行记录.docx",
+                "记录时间": "2024-06-10 08:20:00",
+                "来源系统": ""
+              },
+              "original_file": "REC019-5.1.3.3.1-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "存在电磁环网，且故障时电压大幅下降，影响安全性与可靠性",
+              "metadata": {
+                "来源系统": "",
+                "type": "operation_record",
+                "记录时间": "2024-08-20 14:15:51",
+                "关联设备": "河北保北站 110kV放射状线路",
+                "原始文件": "REC012-5.1.3.3.7-运行记录.docx",
+                "测点标识": "",
+                "所属厂站": "保北500kV变电站"
+              },
+              "original_file": "REC012-5.1.3.3.7-运行记录.docx"
+            },
+            {
+              "deduction": 5,
+              "reason": "运行记录显示，在发电机故障时，末端放射线路电压下降（5.5%）显著高于主干系统（3.8%），表明存在电磁环网且影响了电压稳定性与供电可靠性。",
+              "metadata": {
+                "关联设备": "东莞西部 110kV放射线路末端",
+                "原始文件": "REC009-5.1.3.3.7-运行记录.docx",
+                "来源系统": "",
+                "记录时间": "2024-08-20 17:30:27",
+                "测点标识": "",
+                "所属厂站": "东莞西部110kV站",
+                "type": "operation_record"
+              },
+              "original_file": "REC009-5.1.3.3.7-运行记录.docx"
+            }
+          ],
+          "小计扣分": 70
+        }
+      ],
+      "总扣分": 20,
+      "得分": 0
+    }
+  ],
+  "总得分": 0,
+  "总标准分": 20
+}
